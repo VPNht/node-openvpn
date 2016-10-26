@@ -1,7 +1,7 @@
 node-openvpn
 ============
 [![NPM version](https://badge.fury.io/js/node-openvpn.svg)](http://badge.fury.io/js/node-openvpn)
-[![Dependency Status](https://img.shields.io/david/luigiplr/node-openvpn.svg)](https://david-dm.org/luigiplr/node-openvpn)
+[![Dependency Status](https://img.shields.io/david/vpnht/node-openvpn.svg)](https://david-dm.org/vpnht/node-openvpn)
 [![npm](https://img.shields.io/npm/dm/node-openvpn.svg?maxAge=2592000)]()
 
 Communicate to an OpenVPN client instance via telenet using [node](http://nodejs.org).
